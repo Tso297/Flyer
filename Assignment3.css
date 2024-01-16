@@ -24,7 +24,8 @@ z-index: -1;
     width: 100%;
 }
 
-#Title { margin-top: 300px;
+#Title {
+    margin-top: 300px;
     margin-bottom: 300px;
     font-size: 500%;
 }
@@ -67,3 +68,8 @@ padding-left: 100px;}
 a:hover {
     color: aqua;
 }
+
+table {margin-top: 60px;
+margin-left: 20px;
+width: 400px;
+justify-content: space-between;}
