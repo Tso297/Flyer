@@ -28,6 +28,7 @@ z-index: -1;
     margin-top: 300px;
     margin-bottom: 300px;
     font-size: 500%;
+
 }
 
 h2 {
@@ -69,7 +70,9 @@ a:hover {
     color: aqua;
 }
 
-table {margin-top: 60px;
-margin-left: 20px;
-width: 400px;
-justify-content: space-between;}
+table {margin-top: -200px;
+    font-size: 20px;
+margin-left: 650px;
+width: 600px;
+justify-content: space-between;
+align-items: center;}
